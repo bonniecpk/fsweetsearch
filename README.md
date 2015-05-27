@@ -3,6 +3,12 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.11.1.
 
+## Dependencies
+
+* Ruby 2.1.3 with compass installed
+
+        gem install compass
+  
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
